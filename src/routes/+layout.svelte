@@ -9,7 +9,7 @@
 
 <div class="select-none lowercase">
 	<Navigator />
-	<div class="w-[90%] md:w-3/4 lg:w-2/3 m-auto">
+	<div class="w-[90%] md:w-3/4 lg:w-2/3 mx-auto my-10">
 		<slot />
 	</div>
 </div>
