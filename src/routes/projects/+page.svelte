@@ -16,7 +16,7 @@
 		</div>
 		<div class="card-actions mx-5 mb-5">
 			<a
-				class="btn btn-primary w-full"
+				class="btn btn-primary w-full lowercase"
 				rel="noreferrer"
 				target="_blank"
 				href="https://model.cobymckinney.com"
@@ -27,7 +27,7 @@
 	</div>
 	<div class="card w-full bg-base-100 shadow-md">
 		<figure>
-			<img src="/ng.jpg" alt="Model View" />
+			<img src="/ng.jpg" alt="name generator" />
 		</figure>
 		<div class="card-body">
 			<h1 class="card-title">name gen</h1>
@@ -37,7 +37,7 @@
 		</div>
 		<div class="card-actions mx-5 mb-5">
 			<a
-				class="btn btn-primary w-full"
+				class="btn btn-primary w-full lowercase"
 				rel="noreferrer"
 				target="_blank"
 				href="https://ng.cobymckinney.com"
@@ -48,7 +48,7 @@
 	</div>
 	<div class="card w-full bg-base-100 shadow-md">
 		<figure>
-			<img src="/beam.png" alt="Model View" />
+			<img src="/beam.png" alt="beam cli" />
 		</figure>
 		<div class="card-body">
 			<h1 class="card-title">beam</h1>
@@ -56,7 +56,7 @@
 		</div>
 		<div class="card-actions mx-5 mb-5">
 			<a
-				class="btn btn-primary w-full"
+				class="btn btn-primary w-full lowercase"
 				rel="noreferrer"
 				target="_blank"
 				href="https://github.com/Bitlatte/beam"
@@ -67,7 +67,7 @@
 	</div>
 	<div class="card w-full bg-base-100 shadow-md">
 		<figure>
-			<img src="/github.jpg" alt="Model View" />
+			<img src="/github.jpg" alt="github" />
 		</figure>
 		<div class="card-body">
 			<h1 class="card-title">github</h1>
@@ -78,7 +78,7 @@
 		</div>
 		<div class="card-actions mx-5 mb-5">
 			<a
-				class="btn btn-primary w-full"
+				class="btn btn-primary w-full lowercase"
 				rel="noreferrer"
 				target="_blank"
 				href="https://github.com/Bitlatte"
